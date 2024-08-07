@@ -1,0 +1,32 @@
+/* Example dark theme for PicoCSS */
+
+/* Body background and text color */
+body {
+    background-color: #1e1e1e;
+    color: #c9d1d9;
+}
+
+/* Header and navigation */
+.header {
+    background-color: #0d1117;
+}
+
+/* Links and buttons */
+a, .btn {
+    color: #58a6ff;
+}
+
+/* Cards or panels */
+.card {
+    background-color: #0d1117;
+    border: 1px solid #30363d;
+}
+
+/* Code blocks */
+pre {
+    background-color: #0d1117;
+    color: #d4d4d4;
+    border: 1px solid #30363d;
+}
+
+/* Adjust other elements as needed */
